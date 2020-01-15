@@ -64,7 +64,7 @@ C --> D
 ```
 
 
-# Tomcat Server
+## Tomcat Server
 
 
 ```mermaid
@@ -75,5 +75,5 @@ C --> D[Deployment 탭]
 D --> E[solution-site.war exploded]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDc5MzY3Nl19
+eyJoaXN0b3J5IjpbLTIxMDE5NzM5MjUsLTc3NDc5MzY3Nl19
 -->
