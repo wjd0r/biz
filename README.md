@@ -3,11 +3,11 @@
 
 <select>
   <option value="">home</option>
-</select>&nbsp;&nbsp;
+</select>&nbsp;
 <select>
   <option value="">mysql</option>
   <option value="">java</option>
-</select>&nbsp;&nbsp;
+</select>&nbsp;
 <select>
   <option value="">mysql 설치</option>
 </select>
