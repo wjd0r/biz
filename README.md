@@ -2,14 +2,14 @@
 `wjd0r@naver.com`
 
 <select>
-  <option value="">home</option>
+  <option value="">home </option>
 </select>&nbsp;
 <select>
-  <option value="">mysql</option>
+  <option value="">mysql </option>
   <option value="">java</option>
 </select>&nbsp;
 <select>
-  <option value="">mysql 설치</option>
+  <option value="">mysql install</option>
 </select>
 
 # MySQL 설치
