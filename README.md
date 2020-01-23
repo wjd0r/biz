@@ -2,9 +2,8 @@
 `wjd0r@naver.com`
 
 <select>
-  <option value=""></option>
-  <option value=""></option>
-  <option value=""></option>
+  <option value="">home</option>
+  <option value="">mysql</option>
 </select>
 
 # MySQL 설치
