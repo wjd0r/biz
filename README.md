@@ -4,7 +4,6 @@
 # MySQL 설치
 
 - version : 5.7.28
-- 계정정보 :  root / 1234
 
 ## IntelliJ IDEA 에서 database 연결
 
