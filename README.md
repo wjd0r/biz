@@ -6,6 +6,7 @@
 </select>&nbsp;&nbsp;
 <select>
   <option value="">mysql</option>
+  <option value="">java</option>
 </select>&nbsp;&nbsp;
 <select>
   <option value="">mysql 설치</option>
