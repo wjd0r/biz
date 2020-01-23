@@ -1,6 +1,12 @@
 `2020.01.22`
 `wjd0r@naver.com`
 
+<select>
+  <option value=""></option>
+  <option value=""></option>
+  <option value=""></option>
+</select>
+
 # MySQL 설치
 
 - version : 5.7.28
