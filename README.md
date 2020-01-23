@@ -3,9 +3,10 @@
 
 <select>
   <option value="">home</option>
-</select><select>
+</select>&nbsp;&nbsp;
+<select>
   <option value="">mysql</option>
-</select>
+</select>&nbsp;&nbsp;
 <select>
   <option value="">mysql 설치</option>
 </select>
