@@ -1,5 +1,5 @@
 `2020.01.22`
-`jyk86`
+`wjd0r@naver.com`
 
 # MySQL 설치
 
