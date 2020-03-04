@@ -2,11 +2,13 @@
 `wjd0r@naver.com`
 
 <select onchange="location.href=this.value">
+  <option>선택</option>
   <option value="https://wjd0r.github.io/">home</option>
 </select>&nbsp;
 <select onchange="location.href=this.value">
+  <option>선택</option>
   <option value="https://wjd0r.github.io/deteting/README.htm">탐지 시스템</option>
-  <option value="">java</option>
+  <option>추가 예정</option>
 </select>&nbsp;
 <select onchange="location.href=this.value">
   <option value="">mysql install</option>
