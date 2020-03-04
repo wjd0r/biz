@@ -1,14 +1,14 @@
 `2020.01.22`
 `wjd0r@naver.com`
 
-<select>
+<select onchange="location.href=this.value">
   <option value="https://wjd0r.github.io/">home</option>
 </select>&nbsp;
-<select>
+<select onchange="location.href=this.value">
   <option value="https://wjd0r.github.io/deteting/README.htm">탐지 시스템</option>
   <option value="">java</option>
 </select>&nbsp;
-<select>
+<select onchange="location.href=this.value">
   <option value="">mysql install</option>
 </select>
 
