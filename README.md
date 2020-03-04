@@ -2,10 +2,10 @@
 `wjd0r@naver.com`
 
 <select>
-  <option value=""><a href="https://wjd0r.github.io/">home</a></option>
+  <option value="https://wjd0r.github.io/">home</option>
 </select>&nbsp;
 <select>
-  <option value=""><a href="https://wjd0r.github.io/deteting/README.htm">탐지 시스템</a></option>
+  <option value="https://wjd0r.github.io/deteting/README.htm">탐지 시스템</option>
   <option value="">java</option>
 </select>&nbsp;
 <select>
