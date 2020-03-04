@@ -7,7 +7,7 @@
 </select>&nbsp;
 <select onchange="location.href=this.value">
   <option>선택</option>
-  <option value="https://wjd0r.github.io/detecting/README.htm">탐지 시스템</option>
+  <option value="https://wjd0r.github.io/detecting/">탐지 시스템</option>
   <option>추가 예정</option>
 </select>&nbsp;
 <select onchange="location.href=this.value">
